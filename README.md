@@ -1,6 +1,3 @@
-### Hi there 👋, coding-jhuunn here
-
- > You can call me jhun
-
+### Hi there 👋, jhun here
 Skills:  HTML / CSS / JS / Vue Js / Tailwind CSS
 
