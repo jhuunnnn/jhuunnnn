@@ -5,3 +5,4 @@
 "We are what we repeatedly do"
 
 + I am currently learning to become a software developer in my free time 🚀, mainly in py.
++ I am planning to build my own YT Channel. Coming Soon.
