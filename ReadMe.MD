@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Tuna or Jhun
+### I'm Jhun
 
 "We are what we repeatedly do"
 
