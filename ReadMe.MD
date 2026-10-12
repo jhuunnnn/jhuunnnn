@@ -1,2 +1,2 @@
 ## Hi there 👋
-### Studying to become an AI engineer (hopefully! :>)
+### Studying to become an AI engineer! *hopefully* :>
